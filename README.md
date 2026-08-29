@@ -54,10 +54,7 @@ Esta es la información que me dio acorde a esa herramienta (modulo).
 
 Resultado: EXIF Metadata extraídos exitosamente 
 
-El tamaño coincide exactamente con el reportado por ExifTool en Kali (2.1 MB), lo que confirma que es el mismo archivo.  **Allocated** significa que el archivo no ha sido eliminado y sus metadatos están intactos, Autopsy extrae metadatos del sistema de archivos, pero no analiza los metadatos EXIF internos de la imagen.
-
-
-
+El tamaño coincide exactamente con el reportado por ExifTool en Kali (2.1 MB), lo que confirma que es el mismo archivo.  **Allocated** significa que el archivo no ha sido eliminado y sus metadatos están intactos, En Autopsy, la pestaña 'Metadata' general solo muestra datos del sistema de archivos (tamaño, fechas del archivo). Para ver los datos específicos de la cámara.  Sigue siendo mejor la información de exiftool.
  
 ## Parte 2 Docx
 
@@ -85,7 +82,12 @@ Cabe aclarar
 El documento contiene 10 imágenes incrustadas en la carpeta, Los archivos XML dentro de word/ contienen todo el contenido textual y formato del documento. Puesto que al principio el docx fue usado como un pre-informe con las pruebas de el ejercicio.
 
 ### Hash
-$ sha256sum informeTEST.docx
+```bash
+sha256sum informeTEST.docx
+```
+
+<img width="695" height="127" alt="image" src="https://github.com/user-attachments/assets/16812798-c2d7-4e2e-8736-99a9ff2d6fec" />
+
 
 Este valor único permite verificar que el archivo no ha sido alterado después del análisis.
 
