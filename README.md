@@ -102,3 +102,8 @@ Versión de la aplicación Word 2016, Aplicación utilizada para editar el docum
 
 Autopsy extrae metadatos desde dcterms:created y dcterms:modified.
 ExifTool puede estar mostrando fechas desde el sistema de archivos o desde docProps/core.xml con diferente formato/huso horario.
+
+### ligera prueba en test2
+<img width="1428" height="561" alt="image" src="https://github.com/user-attachments/assets/04efded9-0ccd-4a35-a2e1-42bb0d4300dd" />
+
+Mismo documento con pequeña modificacion
