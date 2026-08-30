@@ -25,7 +25,7 @@ indica que la imagen no ha sido modificada o editada después de su captura. Por
 La imagen fue capturada con un Motorola Edge 60 el 28 de agosto de 2026 a las 15:45:52.
 El dispositivo es un smartphone de gama media-alta de Motorola (manejando la calidad 😎).
 
- <img width="743" height="142" alt="image" src="https://github.com/user-attachments/assets/063fe3d8-be96-47df-a626-1558af06c51c" />
+<img width="727" height="150" alt="image" src="https://github.com/user-attachments/assets/600d6b81-8df7-4fdc-a8f1-c56835eb36ca" />
 
 Las tres fechas coinciden exactamente, lo que indica que la imagen no ha sido modificada después de su captura y es una imagen original y sin alteraciones.
 
